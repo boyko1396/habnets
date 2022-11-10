@@ -2512,6 +2512,7 @@ svg,
   }
 }
 .l-main__access {
+  display: none !important;
   position: absolute;
   bottom: 12%;
   left: 4%;
@@ -2691,6 +2692,7 @@ svg,
   }
 }
 .l-appeal-section__access {
+  display: none !important;
   position: absolute;
   bottom: 13%;
   left: -60px;

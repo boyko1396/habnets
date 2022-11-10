@@ -166,6 +166,7 @@
         }
     }
     &__access {
+        display: none !important;
         position: absolute;
         bottom: 12%;
         left: 4%;
@@ -310,6 +311,7 @@
         }
     }
     &__access {
+        display: none !important;
         position: absolute;
         bottom: 13%;
         left: -60px;
