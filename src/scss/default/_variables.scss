@@ -1,0 +1,32 @@
+// typography
+$ff-default: 'Inter', Arial, sans-serif;
+$ff-accent: 'Dela Gothic One', Arial, sans-serif;
+
+// pallets
+$color-black-1: #000;
+$color-black-2: #39364A;
+$color-black-3: #383838;
+$color-white-1: #fff;
+$color-white-2: #F5F5F5;
+$color-gray-1: #F3F4F8;
+$color-gray-2: #6D6D78;
+$color-gray-3: #8B8A92;
+$color-gray-4: #747474;
+$color-accent-1: #797DF2;
+$color-accent-2: #5A5FDA;
+$color-red-1: rgba(red, .8);
+
+$xl: 1440px;
+$xl-mf: $xl + 1;
+
+$lg: 1199px;
+$lg-mf: $lg + 1;
+
+$md: 991px;
+$md-mf: $md + 1;
+
+$sm: 767px;
+$sm-mf: $sm + 1;
+
+$xs: 576px;
+$xs-mf: $xs;

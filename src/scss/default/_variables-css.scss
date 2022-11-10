@@ -1,0 +1,31 @@
+:root {
+    --fs-default: 18px;
+    --fs-1: 70px;
+    --fs-2: 50px;
+    --fs-3: 24px;
+    --fs-4: 18px;
+    --fs-5: 16px;
+    --fs-6: 14px;
+
+    --gap: 10px;
+    --gap-: -10px;
+    --gap-fluid: 20px;
+    --gap-fluid-: -20px;
+}
+
+@media (max-width: $lg  ) {
+    :root {
+        --fs-default: 14px;
+        --fs-1: 38px;
+        --fs-2: 38px;
+        --fs-3: 18px;
+    }
+}
+
+@media (max-width: $sm) {
+    :root {
+        --fs-1: 26px;
+        --fs-2: 26px;
+        --fs-4: 14px;
+    }
+}
